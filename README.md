@@ -25,3 +25,10 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 * Rails 4.2 [Rails Guide](http://guides.rubyonrails.org/v4.2/)
 * PostgreSQL 9.x
 * Stripe
+
+## Screenshots
+
+!["Screenshot of homepage"]()
+!["Screenshot of cart"]()
+!["Screenshot of admin products"]()
+!["Screenshot of product details"]()
