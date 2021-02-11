@@ -28,7 +28,7 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 
 ## Screenshots
 
-!["Screenshot of homepage"]()
-!["Screenshot of cart"]()
-!["Screenshot of admin products"]()
-!["Screenshot of product details"]()
+!["Screenshot of homepage"](https://raw.githubusercontent.com/firebfm/jungle-rails/master/docs/home.png)
+!["Screenshot of cart"](https://raw.githubusercontent.com/firebfm/jungle-rails/master/docs/cart.png)
+!["Screenshot of admin products"](https://raw.githubusercontent.com/firebfm/jungle-rails/master/docs/admin-products.png)
+!["Screenshot of product details"](https://raw.githubusercontent.com/firebfm/jungle-rails/master/docs/product-show.png)
